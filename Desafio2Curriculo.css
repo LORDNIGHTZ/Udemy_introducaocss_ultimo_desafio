@@ -1,0 +1,112 @@
+h2 {
+    background-color: rgb(151, 151, 151); /* Cor de fundo */
+    color: white; /* Cor do texto */
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px; /* Adicionando um pouco de espaço em volta do texto */
+    border-bottom: 2px solid rgb(98, 0, 255); /* Adiciona um underline branco fino */
+}
+
+h1 {
+    background-color: rgb(163, 163, 236); /* Cor de fundo */
+    color: rgb(255, 255, 255); /* Cor do texto */
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px; /* Adicionando um pouco de espaço em volta do texto */
+    text-align: center;
+    margin-bottom: 0px; /* Diminui o espaço abaixo do título */
+   
+}
+
+a {
+
+    
+    
+    font-size: 12px;
+    font-weight: bold;
+  
+   
+
+}
+
+span {
+
+    font-size: 12px;
+    font-weight: bold; 
+}
+
+.vermelho {
+    color: red;  /* Define a cor vermelha para o texto */
+}
+
+.cor {
+   
+    color: rgb(255, 0, 0); /* Cor do texto */
+    
+   
+}
+
+
+
+
+.sub {
+   
+    font-size: 12px;
+    /*border-bottom: 2px solid rgb(252, 252, 252); /* Adiciona um underline branco fino */
+    text-align: center;
+    /*border-bottom: 2px solid rgb(98, 0, 255); /* Adiciona um underline branco fino */
+    background-color: rgb(187, 163, 218); /* Cor de fundo */
+    margin-top: 0px; /* Remove o espaço extra acima do parágrafo */
+    color: rgb(255, 255, 255); /* Cor do texto */
+}
+
+ul {
+    list-style-position: inside;  /* Garante que o marcador da lista fique dentro do bloco */
+    margin-left: 0;               /* Remove qualquer margem à esquerda */
+    padding-left: 0;              /* Remove qualquer padding à esquerda */
+}
+
+p {
+   
+    font-size: 12px;
+   
+   
+}
+
+.menu{
+
+background-color: white;
+text-align: right;
+
+}
+
+.menu li {
+
+
+    list-style: none;
+    background-color: yellow;
+   
+    display: inline-block;
+    padding: 0px;
+
+
+
+}
+
+.menu a {
+
+    background-color: rgb(210, 176, 255);
+    padding: 16px;
+    display: inline-block;
+    text-decoration: none;
+
+
+}
+
+.menu a:hover {
+
+
+
+    background-color: rgba(255, 192, 140, 0.836);
+    text-decoration: none;
+}
